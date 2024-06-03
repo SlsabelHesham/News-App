@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (4.9.1)
+  - ReachabilitySwift (5.0.0)
+  - SDWebImage (5.19.1):
+    - SDWebImage/Core (= 5.19.1)
+  - SDWebImage/Core (5.19.1)
+  - Toast-Swift (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - ReachabilitySwift
+  - SDWebImage (~> 5.0)
+  - Toast-Swift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - ReachabilitySwift
+    - SDWebImage
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  SDWebImage: 40b0b4053e36c660a764958bff99eed16610acbb
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+
+PODFILE CHECKSUM: 93e3d1a548d33416c7fb4c93cfaf6dcfc8fca11d
+
+COCOAPODS: 1.15.2
